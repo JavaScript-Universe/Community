@@ -1,2 +1,2 @@
-# Support
-Here you can ask for support with anything JavaScript related
+# Welcome to the community discussions
+Join the discussion!
