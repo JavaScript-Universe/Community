@@ -13,8 +13,11 @@ If you got banned from Javascript Universe, you may appeal it [here](https://doc
 If you want to apply for staff of Javascript Universe, You can apply here :smile:
 
 [Support Staff Application](https://docs.google.com/forms/d/1k2AvZEnwbL7TFPuFduRCODBgMp8bT4YWQM4cEgIx-mw/edit?usp=sharing)
+                 
+                      
 [Moderation Staff Application](https://docs.google.com/forms/d/1QGwVxPI1FUZTSyqwK3eeRWnb-dPMDij_FFvxmTGjsnQ/edit?usp=sharing)
-
+          
+          
 Just wanted to let all of you know that we are still looking for staff to maintain this fast growing server. Just a heads up, in case you do not get an answer on your application within 48 hours of applying it has probably been denied. Just like with the warning appeal we do not notify you about it being denied. This may subject to change in the future.
 
 
