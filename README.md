@@ -1,4 +1,4 @@
-![Header](https://github.com/FrostyTheDumDum/Community/blob/master/header.png?raw=true "Header")
+![Header](https://github.com/JavaScript-Universe/Community/blob/master/header.png?raw=true "Header")
 
 # Welcome to the community discussions of Javascript Universe!
 Join the discussion of Javascript Universe! A lovely Discord server with more than 1900 members! :smile: 
