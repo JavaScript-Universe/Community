@@ -4,10 +4,10 @@
 Join the discussion of Javascript Universe! A lovely Discord server with more than 1900 members! :smile: 
 
 # Suggestions
-If you want to submit a suggestion for Javascript Universe, You may start a discussion [here.](https://github.com/JavaScript-Universe/Community/discussions)
+If you want to submit a suggestion for Javascript Universe, You may start a discussion [here.](https://github.com/JavaScript-Universe/Community/discussions).
 
 # Ban Appeal
-If you got banned from Javascript Universe, you may appeal it [here](https://docs.google.com/forms/d/1zxH9sFrTEHgDd56Jm1B4ieDTJbYVv4JGwkhyK3cYxDY)
+If you got banned from Javascript Universe, you may appeal it [here](https://docs.google.com/forms/d/1zxH9sFrTEHgDd56Jm1B4ieDTJbYVv4JGwkhyK3cYxDY).
 
 # Applying for staff
 If you want to apply for staff of Javascript Universe, You can apply here :smile:
